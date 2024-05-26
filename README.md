@@ -229,6 +229,13 @@
       "message": "Password reset token is invalid or expired."
   }
   ```
+- **Error Response**:
+  ```json
+  {
+      "status": false,
+      "message": "We can\'t find a user with that email address."
+  }
+  ```
 
 #### API-05: Profile Details Endpoint
 - **Successful Response**:
