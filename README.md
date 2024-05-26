@@ -98,7 +98,7 @@
 
 
 
-##Reqeust Payloads
+###Reqeust Payloads
 #### API-01: Sign Up Functionality
 - **Request Payload**:
   ```json
